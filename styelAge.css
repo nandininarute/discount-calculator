@@ -1,0 +1,46 @@
+*{
+    color:white;
+    /* font-family: 'Architects Daughter', cursive; */
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    background-color: whitesmoke;
+   
+}
+
+.container{
+    border: 2px solid;
+    width: 500px;
+    background-color: darkcyan;
+    margin-left: 300px;
+    margin-top: 50px;
+    text-align: center;
+   
+    
+}
+h2{
+    color: orange;
+}
+#ageselect{
+    border: 1px solid;
+    border-radius:5px;
+    background-color: gray;
+}
+.btn{
+    border: 1px;
+    border-radius: 5px;
+    margin-right: 10px;
+    background-color: orange;
+    padding-top: 5px;
+    
+}
+#socialicon
+{
+    text-align: center;
+    letter-spacing: 10px;
+    color: whitesmoke;
+
+}
+.btn:hover{
+    background-color: lightcoral;
+}
